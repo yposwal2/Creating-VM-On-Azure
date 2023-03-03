@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 
-In this lab, I am creating a virtual machine on azure and taking its RDP to access it from my computer.
+In this lab, I create a virtual machine on Azure using Windows Server 2012 R2 Datacenter image. I go through the process of configuring the virtual machine by specifying instance details, administrator account and inbound port rules, OS disk, networking, management, monitoring, advanced settings, and tags. After reviewing and creating the virtual machine, I remotely access it from my computer using Microsoft Remote Desktop and log in with the administrator account I specified earlier. Finally, I confirm that the Windows Server is up and running on the virtual machine.
 <br />
 
 <h2>Utilities Used</h2>
